@@ -22,7 +22,7 @@ Link to Google Colab File: https://colab.research.google.com/drive/1zK6Pfe6tGGdD
  - The U.S. minimum wage requirement, based on a combination of state and federal law, has increased from an average of $1.25 in 1968 to an average of $9.08 in 2020.
  - When only considering years when states have active minimum wage laws, Florida is observed to have the highest minimum wage requirement.
  - Based on 2020 equivalents:
-     - Federal minimum wage laws have shown an overall flat trend. Although there were some acute increases and decreases, notably the decline from 1979 to 1990, since 1990 there has been a slight increasing trend. It's important to note that the minimum wage in 2020 is still less than its 1968 equivalent
+     - Federal minimum wage laws have shown an overall flat trend. Although there were some acute increases and decreases, notably the decline from 1979 to 1990, since 1990 there has been a slight increasing trend. It's important to note that the minimum wage in 2020 (state & federal) is less than its 1968 equivalent
      - State minimum wage law averages have generally followed a similar pattern. However, the increasing trend since 1990 has been stronger, with an increasing number of states passing minimum wage requirements higher than the federal minimum wage law. Notably, Florida, which did not have a state law in effect until 2006, boasts the highest average minimum wage requirement among all states and territories.
 
 See Related Projects: https://github.com/BradleyRossCodes
